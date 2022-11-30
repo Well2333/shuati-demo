@@ -58,7 +58,7 @@
 ### license
 
 - **类型**: `str`
-- **默认值**: `MIT`
+- **默认值**: `cc-by-nc-sa`
 
 题库开源协议，默认为 `cc-by-nc-sa` 协议即 [`署名-非商业性使用-相同方式共享`](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议。
 
